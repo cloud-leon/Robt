@@ -1,0 +1,6 @@
+planner_configs:
+  CS3891Planner:
+    type: CS3891Planner
+lwr:
+  planner_configs:
+    - CS3891Planner
